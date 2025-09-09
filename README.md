@@ -13,10 +13,8 @@
 ## 🚀 Features
 
 ### Core Capabilities
-- **🔍 SQL Injection Detection** - Automated SQLi vulnerability scanning with custom payload generation
 - **🕷️ Advanced Web Scraping** - Multi-threaded scrapers with proxy rotation and anti-bot bypass
 - **🎯 Keyword Research** - SEO analysis and keyword generation for OSINT research  
-- **🛡️ Security Testing** - Comprehensive vulnerability assessment tools
 - **📊 Data Processing** - Automated parsing, filtering, and export capabilities
 - **🖥️ Modern GUI** - Professional interface built with PySide6/Tkinter
 
@@ -25,9 +23,6 @@
 - Proxy pool management and rotation
 - User-agent randomization
 - Rate limiting and throttling
-- Captcha solving integration
-- Database integration (SQLite, MySQL, PostgreSQL)
-- Export formats (CSV, JSON, XML, PDF)
 - Logging and error handling
 
 ## 📋 Requirements
